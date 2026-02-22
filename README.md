@@ -29,7 +29,7 @@ A comprehensive web-based application designed to manage community or organizati
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/FundManagementSystem.git
+   git clone https://github.com/suneththivanka128/FundManagementSystem-v2.git
    ```
 
 2. **Database Setup**:
@@ -56,7 +56,7 @@ A comprehensive web-based application designed to manage community or organizati
 - `ProfilePhoto/`: Directory for uploaded member profile pictures.
 
 ## Screenshots
-*(Add screenshots here after uploading to GitHub)*
+*(Wait)*
 
 ## Contributors
 

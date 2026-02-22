@@ -1,0 +1,3 @@
+01.Add new Database, name it "fund management system".
+02.Select & Open created database.
+03.After Import "fund management system.sql".

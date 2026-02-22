@@ -1,0 +1,16 @@
+# Database configuration (ඔයාට මේක රහසිගතව තියාගන්න ඕනේ නම්)
+# config/database.php
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# User Uploaded Content
+ProfilePhoto/*
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/

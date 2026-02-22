@@ -62,7 +62,7 @@ A comprehensive web-based application designed to manage community or organizati
 
 Special thanks to the following friends who contributed to the success of this project:
 
-- **[Sachintha165](https://github.com/Sachintha165)**
+- **[Sachintha1](https://github.com/Sachintha165)**
 - **[rashminda-aluvihare](https://github.com/rashminda-aluvihare)**
 - **[dinuka-prasad](https://github.com/dinuka-prasad)**
 

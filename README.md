@@ -1,6 +1,6 @@
 # Fund Management System
 
-**Academic Project: HNDIT 2024 - 2nd Semester**
+**Academic Project: HNDIT 2024 -1st Year 2nd Semester**
 
 A comprehensive web-based application designed to manage community or organization funds, member registrations, payments, and expenses. Developed as part of the curriculum for the Higher National Diploma in Information Technology (HNDIT).
 
